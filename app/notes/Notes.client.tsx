@@ -7,7 +7,7 @@ import NoteList from "@/components/NoteList/NoteList";
 import Pagination from "@/components/Pagination/Pagination";
 import SearchBox from "@/components/SearchBox/SearchBox";
 import Modal from "@/components/Modal/Modal";
-import css from "./NotesPage.module.css";
+import css from "./Notes.module.css";
 import NoteForm from "@/components/NoteForm/NoteForm";
 
 export default function NotesClient() {
